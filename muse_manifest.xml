@@ -1,8 +1,25 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="StrengthInNumbers.github.io" resolutions="1x" timestamp="1457163829238">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="StrengthInNumbers.github.io" resolutions="1x" timestamp="1457165793481">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_main.css" crc="321525473" ref="index"/>
-    <file name="index.css" crc="324753005" ref="index"/>
+    <file name="index.css" crc="4083851721" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="roboto-light-webfont.woff" crc="144435638"/>
+    <file name="roboto-light-webfont.eot" crc="4024267286"/>
+    <file name="roboto-light-webfont.svg" crc="4128859855"/>
+    <file name="roboto-regular-webfont.woff" crc="3958623754"/>
+    <file name="roboto-regular-webfont.eot" crc="349619666"/>
+    <file name="roboto-regular-webfont.svg" crc="457247351"/>
+    <file name="roboto-bold-webfont.woff" crc="63417237"/>
+    <file name="roboto-bold-webfont.eot" crc="3823021988"/>
+    <file name="roboto-bold-webfont.svg" crc="522950134"/>
+    <file name="roboto-thin-webfont.woff" crc="367131459"/>
+    <file name="roboto-thin-webfont.eot" crc="405779889"/>
+    <file name="roboto-thin-webfont.svg" crc="72711594"/>
+    <file name="roboto-bolditalic-webfont.woff" crc="4201202419"/>
+    <file name="roboto-bolditalic-webfont.eot" crc="4275644442"/>
+    <file name="roboto-bolditalic-webfont.svg" crc="327715696"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
@@ -24,5 +41,5 @@
     <file name="dgc logo.png" crc="4208244930" seo="true" ref="index"/>
     <file name="footer shapes width.png" crc="3838110089" ref="index"/>
   </folder>
-  <file name="index.html" crc="60091476" seo="true" mt="1457163805293" redirect="true"/>
+  <file name="index.html" crc="3949254553" seo="true" mt="1457165709188" redirect="true"/>
 </manifest>
