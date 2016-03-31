@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #1659BB;
+	color: #00000C;
+	background-color: #5DD123;
 }
 
 #page
@@ -56,10 +56,10 @@
 	width: 239px;
 	min-height: 34px;
 	background-color: transparent;
+	line-height: 32px;
 	color: #000000;
 	font-size: 16px;
 	text-align: left;
-	line-height: 32px;
 	font-family: '__Roboto_5';
 	font-weight: 700;
 	margin-left: 32px;
@@ -146,10 +146,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: relative;
@@ -225,10 +225,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: relative;
@@ -304,10 +304,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: relative;
@@ -383,10 +383,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: relative;
@@ -499,10 +499,10 @@
 	width: 239px;
 	min-height: 34px;
 	background-color: transparent;
+	line-height: 32px;
 	color: #000000;
 	font-size: 16px;
 	text-align: left;
-	line-height: 32px;
 	font-family: '__Roboto_5';
 	font-weight: 700;
 	position: fixed;
@@ -589,10 +589,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: relative;
@@ -698,10 +698,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: relative;
@@ -807,10 +807,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: relative;
@@ -916,10 +916,10 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: relative;
@@ -980,9 +980,9 @@
 	z-index: 7;
 	min-height: 80px;
 	background-color: transparent;
+	line-height: 74px;
 	font-size: 62px;
 	text-align: center;
-	line-height: 74px;
 	font-family: '__Roboto_5';
 	font-weight: 700;
 }
@@ -1000,9 +1000,9 @@
 	width: 762px;
 	min-height: 96px;
 	background-color: transparent;
+	line-height: 26px;
 	font-size: 22px;
 	text-align: center;
-	line-height: 26px;
 	font-family: '__Roboto_5';
 	font-weight: 300;
 	margin-left: 99px;
@@ -1045,9 +1045,9 @@
 	width: 635px;
 	min-height: 53px;
 	background-color: transparent;
+	line-height: 26px;
 	font-size: 22px;
 	text-align: center;
-	line-height: 26px;
 	font-family: '__Roboto_5';
 	font-weight: 300;
 	left: 262px;
@@ -1081,9 +1081,9 @@
 	z-index: 11;
 	min-height: 80px;
 	background-color: transparent;
+	line-height: 74px;
 	font-size: 62px;
 	text-align: center;
-	line-height: 74px;
 	font-family: '__Roboto_5';
 	font-weight: 700;
 }
@@ -1126,6 +1126,7 @@
 	width: 22px;
 	margin-right: -10000px;
 	margin-top: 1px;
+	left: 1px;
 }
 
 #u839-4
@@ -1135,9 +1136,9 @@
 	min-height: 53px;
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.54);
+	line-height: 26px;
 	font-size: 22px;
 	text-align: center;
-	line-height: 26px;
 	font-family: '__Roboto_5';
 	font-weight: 300;
 	position: relative;
@@ -1158,9 +1159,9 @@
 	z-index: 30;
 	min-height: 80px;
 	background-color: transparent;
+	line-height: 74px;
 	font-size: 62px;
 	text-align: center;
-	line-height: 74px;
 	font-family: '__Roboto_5';
 	font-weight: 700;
 }
@@ -1192,6 +1193,7 @@
 
 #methodology,#dogood
 {
+	left: 1px;
 	position: relative;
 }
 
@@ -1201,10 +1203,10 @@
 	width: 916px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 43px;
 	color: #FFFFFF;
 	font-size: 36px;
 	text-align: center;
-	line-height: 43px;
 	font-family: '__Roboto_5';
 	font-weight: 700;
 	left: 123px;
@@ -1229,9 +1231,9 @@
 	min-height: 86px;
 	background-color: transparent;
 	font-size: 20px;
+	text-align: center;
 	color: #000000;
 	line-height: 24px;
-	text-align: center;
 	font-family: '__Roboto_5';
 	font-weight: 700;
 	font-style: italic;
@@ -1291,8 +1293,8 @@
 	width: 332px;
 	min-height: 59px;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: '__Roboto_5';
 	font-weight: 700;
 	left: 414px;
@@ -1332,27 +1334,9 @@ body
 @font-face
 {
 	font-family: '__Roboto_5';
-	src: url('../fonts/roboto-light-webfont.eot');
-	src: local('☺'), url('../fonts/roboto-light-webfont.woff') format('woff'), url('../fonts/roboto-light-webfont.svg') format('svg');
-	font-weight: 300;
-	font-style: normal;
-}
-
-@font-face
-{
-	font-family: '__Roboto_5';
 	src: url('../fonts/roboto-regular-webfont.eot');
 	src: local('☺'), url('../fonts/roboto-regular-webfont.woff') format('woff'), url('../fonts/roboto-regular-webfont.svg') format('svg');
 	font-weight: 400;
-	font-style: normal;
-}
-
-@font-face
-{
-	font-family: '__Roboto_5';
-	src: url('../fonts/roboto-bold-webfont.eot');
-	src: local('☺'), url('../fonts/roboto-bold-webfont.woff') format('woff'), url('../fonts/roboto-bold-webfont.svg') format('svg');
-	font-weight: 700;
 	font-style: normal;
 }
 
@@ -1368,9 +1352,27 @@ body
 @font-face
 {
 	font-family: '__Roboto_5';
+	src: url('../fonts/roboto-light-webfont.eot');
+	src: local('☺'), url('../fonts/roboto-light-webfont.woff') format('woff'), url('../fonts/roboto-light-webfont.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Roboto_5';
 	src: url('../fonts/roboto-bolditalic-webfont.eot');
 	src: local('☺'), url('../fonts/roboto-bolditalic-webfont.woff') format('woff'), url('../fonts/roboto-bolditalic-webfont.svg') format('svg');
 	font-weight: 700;
 	font-style: italic;
+}
+
+@font-face
+{
+	font-family: '__Roboto_5';
+	src: url('../fonts/roboto-bold-webfont.eot');
+	src: local('☺'), url('../fonts/roboto-bold-webfont.woff') format('woff'), url('../fonts/roboto-bold-webfont.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
 }
 

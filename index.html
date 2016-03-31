@@ -14,7 +14,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?131700929"/>
   <link rel="stylesheet" type="text/css" href="css/master_main.css?321525473"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?4279654843" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?207474979" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
@@ -310,10 +310,10 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#u177').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0.5]}]);/* scroll effect */
-$('#u1036-bw').registerPositionScrollEffect([{"in":[-Infinity,583],"speed":[null,-1]},{"in":[583,Infinity],"speed":[null,0]}]);/* scroll effect */
-$('#u1236-6').registerPositionScrollEffect([{"in":[-Infinity,582],"speed":[0,-1]},{"in":[582,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#menuu1082').registerPositionScrollEffect([{"in":[-Infinity,583],"speed":[0,-1]},{"in":[583,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u177').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,0.5],"in":[0,Infinity]}]);/* scroll effect */
+$('#u1036-bw').registerPositionScrollEffect([{"speed":[null,-1],"in":[-Infinity,583]},{"speed":[null,0],"in":[583,Infinity]}]);/* scroll effect */
+$('#u1236-6').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,582]},{"speed":[0,0],"in":[582,Infinity]}]);/* scroll effect */
+$('#menuu1082').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,583]},{"speed":[0,0],"in":[583,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});

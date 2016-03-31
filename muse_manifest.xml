@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="StrengthInNumbers.github.io" resolutions="1x" timestamp="1459127414323">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="StrengthInNumbers.github.io" resolutions="1x" timestamp="1459396906267">
   <folder name="assets">
     <file name="disabler_qooqee_widgets.mulib" crc="4191540390" seo="true" mt="1427685654000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_main.css" crc="321525473" ref="index"/>
-    <file name="index.css" crc="4279654843" ref="index"/>
+    <file name="index.css" crc="207474979" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="roboto-bold-webfont.woff" crc="63417237"/>
@@ -45,5 +45,5 @@
     <file name="dgc logo.png" crc="4208244930" seo="true" ref="index"/>
     <file name="footer shapes width.png" crc="3838110089" ref="index"/>
   </folder>
-  <file name="index.html" crc="3808091313" seo="true" mt="1459127405373" redirect="true"/>
+  <file name="index.html" crc="531148233" seo="true" mt="1459396882322" redirect="true"/>
 </manifest>
